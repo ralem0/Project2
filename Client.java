@@ -13,8 +13,8 @@ import java.net.UnknownHostException;
 import java.util.Scanner;
 
 /**
- * @author Robel Alem
- * @version 2017.10.12
+ * @author Robel Alem & Quinn Conroy
+ * @version 2017.11.20
  */
 
 public class Client {
