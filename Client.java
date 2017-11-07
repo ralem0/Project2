@@ -13,7 +13,7 @@ import java.net.UnknownHostException;
 import java.util.Scanner;
 
 /**
- * @author Antoinette Addo
+ * @author Robel Alem
  * @version 2017.10.12
  */
 
